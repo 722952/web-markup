@@ -1,0 +1,14 @@
+body
+{
+    background-color: darkgray;
+}
+
+h1.special-heading
+{
+    color: white;
+}
+
+p.text-color
+{
+    color: lightgray;
+}
